@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @40LF0
-- 👀 I’m interested in 
-- 🌱 I’m currently learning algorithm and data structure.
+- 👀 I’m interested in web back-end engineering.
+- 🌱 I’m currently learning java spring and relative db usage.
 - 💞️ I’m looking to collaborate on small project for novice.
 - 📫 How to reach me 40lf0.1@gmail.com
 
